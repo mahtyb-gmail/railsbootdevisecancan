@@ -1,0 +1,6 @@
+Rails Test App.  Used for educational purposes to show how to create an application that uses 
+
+A. Rails 3		( Ruby on Rails development environment )
+B. Bootstrap	( Css )
+C. Devise		( User accounts)
+D. Cancan		( Assign user roles and permissions )
